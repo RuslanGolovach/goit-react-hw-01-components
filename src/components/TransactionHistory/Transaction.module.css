@@ -1,0 +1,14 @@
+.Table {
+  margin: 0 auto;
+  margin-top: 40px;
+  font-size: 20px;
+}
+.Heading {
+  background-color: rgb(175 121 121);
+}
+
+.TableItem {
+  text-align: center;
+  padding: 10px;
+  border: 3px solid #1e1d68;
+}

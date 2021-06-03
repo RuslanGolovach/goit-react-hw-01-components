@@ -1,0 +1,27 @@
+.FriendsList {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+.Item {
+  outline: 1px solid rgb(230, 89, 89);
+  width: 100px;
+  height: 80px;
+  padding: 15px;
+  box-shadow: 0 0 10px 5px rgb(175, 121, 121);
+}
+
+.StatusOnline {
+  color: green;
+  padding-right: 10px;
+}
+.StatusOffline {
+  color: red;
+  padding-right: 10px;
+}
+.Name {
+  font-size: 20px;
+  color: cadetblue;
+  margin: 0;
+  margin-top: 10px;
+}
